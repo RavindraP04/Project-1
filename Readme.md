@@ -9,7 +9,7 @@
 
 I got the basic undersatnding of Positioninig in the CSS and further I will be making this webpage responsive 
 
-[Click here to view live 🚀]()
+[Click here to view live 🚀](https://rp-project-1.netlify.app/ "Street Style Landing Page")
 
 ## Screenshot of the Project 👇
 ![](./assets/Street%20Style%20Landing%20Page.png)
